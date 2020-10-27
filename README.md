@@ -3,7 +3,7 @@ A collection of dynamic programming problems and notes from MIT's OpenCourseWare
 
 
 <b>A quick summarization/generalization of Dynamic Programming (DP):</b>
-* a form of ["careful bruteforce"](Techniques)
+* a form of "careful bruteforce"
 * composed of 3 main techniques: 1) Guessing + 2) Recursion + 3) memoization
 * shortest paths in some DAG (Directed Acylical Graph)
 
