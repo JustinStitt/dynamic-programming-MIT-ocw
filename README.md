@@ -89,6 +89,5 @@ DP(J) + badness(i,j)
 #### Resources:
 
 [MIT OpenCourseWare](https://www.youtube.com/watch?v=ENyox7kNKeY)
-
-
+[Hacker-Rank](https://www.youtube.com/watch?v=P8Xa2BitN3I)
 
